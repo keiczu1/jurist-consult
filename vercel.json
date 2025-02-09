@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)/index.htm",
+      "destination": "/$1/",
+      "permanent": true
+    }
+  ]
+}
